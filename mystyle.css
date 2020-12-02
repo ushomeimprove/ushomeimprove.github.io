@@ -60,31 +60,7 @@ h1 {
 }
 
 .btn {
-  /* very advanced typography */
-  line-height: 1em;
-  font-family: arial, sans-serif;
-  font-size: 14px;
-  font-weight: bold;
-  color: red;
-  /* mess with how it looks! very excite */
-  border: 2px solid transparent;
-  margin: 0 10px 10px 0;
-  padding: 6px 14px;
-  /* boring */
-  box-sizing: border-box;
-  text-align: center;
-  vertical-align: middle;
-  touch-action: manipulation;
-  cursor: pointer;
-  width: auto;
-  white-space: nowrap;
-  word-wrap:break-word;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  /* alternate looks */
-  /* animation stuff */
+
 }
 .btn:hover,
 .btn:focus,
