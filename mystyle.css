@@ -62,27 +62,4 @@ h1 {
 .btn {
 
 }
-.btn:hover,
-.btn:focus,
-.btn.focus {
-  color: red;
-  text-decoration: none;
-}
-.btn.pill {
-  /* border-radius: 24px; */
-}
-.btn.fill {
-  background: red;
-}
-.btn.white {
-  color: black;
-}
-.btn:hover.fill {
-  background: none;
-  border: 2px solid red;
-  color: red;
-}
-.btn:hover.white {
-  color: red;
-  border-color: red;
-}
+
