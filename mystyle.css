@@ -92,7 +92,7 @@ h1 {
   text-decoration: none;
 }
 .btn.pill {
-  border-radius: 24px;
+  /* border-radius: 24px; */
 }
 .btn.fill {
   background: red;
