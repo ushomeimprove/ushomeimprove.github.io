@@ -68,7 +68,7 @@ h1 {
   color: red;
   /* mess with how it looks! very excite */
   border: 2px solid transparent;
-  margin: 0 10px 10px 0;
+  margin: 10px;
   padding: 6px 14px;
   /* boring */
   box-sizing: border-box;
